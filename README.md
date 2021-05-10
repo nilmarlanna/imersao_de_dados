@@ -8,4 +8,8 @@
 
 ## A Imersão Dados da Alura é para quem quer acelerar os conhecimentos em Ciência de Dados, utilizando tecnologias alinhadas ao mercado e desenvolvendo projetos com dados do mundo real. É tanto para quem está na área de Dados e quer se aprimorar, quanto para quem está começando agora na carreira e quer saber mais sobre esse mercado.
 
-Esse projeto foi inspirado em um desafio do Laboratory innovation science at Harvard disponibilizando os dados em uma competição no kaggle.
+## Projeto foi inspirado em um desafio do [Laboratory innovation science at Harvard](https://lish.harvard.edu/) disponibilizando os dados em uma competição no [kaggle](https://www.kaggle.com/c/lish-moa).
+
+## Imersão dos dias 03/05/2021 até 07/05/2021.
+
+## Instrutores: [Thiago G. Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/), [Vanessa Leiko](https://www.linkedin.com/in/vanessa-leiko-oikawa-cardoso/) e [Guilherme Silveira](https://www.linkedin.com/in/guilhermeazevedosilveira/) 
